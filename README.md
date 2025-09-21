@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm  Burhan TÜRK. I was born in 28/11/2005
+I'm currently a freshman for Computer Science in Bilkent University.
+I'm looking for new adventures
+
 
 <!--
 **Thedeaced/Thedeaced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
